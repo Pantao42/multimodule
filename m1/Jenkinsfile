@@ -1,4 +1,6 @@
 @Library('mySharedLib') _
-myPipeline {
-changeSetPath = "m1/"
+    myPipeline {
+        environment {
+               module_path = "m1/"
+            }
 }
