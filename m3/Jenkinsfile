@@ -1,3 +1,5 @@
 @Library('mySharedLib') _
 
-myPipeline()
+myPipeline( {
+   module_path = "m3/"
+})
