@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m1.1" />
+        <module name="m4.1" />
+        <module name="m1.4" />
+        <module name="m2.3" />
+        <module name="m3.2" />
+        <module name="m2.4" />
+        <module name="m5.1" />
+        <module name="m4.2" />
+        <module name="m3.3" />
+        <module name="m1.5" />
+        <module name="m2.1" />
+        <module name="m1.2" />
+        <module name="m1.3" />
+        <module name="m2.2" />
+        <module name="m3.1" />
+        <module name="m4.5" />
+        <module name="m5.4" />
+        <module name="m5.5" />
+        <module name="m4.3" />
+        <module name="m3.4" />
+        <module name="m5.2" />
+        <module name="m2.5" />
+        <module name="m5.3" />
+        <module name="m4.4" />
+        <module name="m3.5" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
