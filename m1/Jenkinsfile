@@ -1,4 +1,2 @@
 @Library('mySharedLib') _
-    myPipeline {
-       module_path = '.'
-    }
+    myPipeline ()
