@@ -2,8 +2,6 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-	<!-- nur ein Test -->
-
 	<parent>
     <groupId>com.soebes.maven.training.module</groupId>
 		<artifactId>parent</artifactId>
