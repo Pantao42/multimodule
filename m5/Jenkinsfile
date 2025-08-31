@@ -1,5 +1,3 @@
 @Library('mySharedLib') _
 
-myPipeline {
-    module_path = 'm5/'
-}
+myPipeline()
